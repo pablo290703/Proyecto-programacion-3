@@ -1,0 +1,60 @@
+.carousel-inner img {
+    height: 500px;
+}
+.carousel-caption a{
+    font-size: 25px;
+    color: #819FF7;
+    background-color: #0101DF;
+}
+.colorlink{
+    color: #E0F2F7;
+}
+.contenedor0{
+    background-color: #CEF6F5;
+}
+#contenedor1 {
+    background-color: #58ACFA;    
+}
+#barra{
+    width: 15%;
+    height: 30rem;
+}
+
+#Contenedor h1{
+  font-family:  cursive;  
+}
+
+.imagenborde {
+    border: 5px solid #58D3F7;
+}
+
+.menu{
+    background-color: #0080FF;
+    /***********************************/
+    border-radius: 22px 22px 22px 22px;
+    -moz-border-radius: 22px 22px 22px 22px;
+    -webkit-border-radius: 22px 22px 22px 22px;
+    border: 3px solid #ececec;
+    /***********************************/
+    -webkit-box-shadow: 2px 4px 13px 0px rgba(0,77,24,1);
+    -moz-box-shadow: 2px 4px 13px 0px rgba(0,77,24,1);
+    box-shadow: 2px 4px 13px 0px rgba(0,77,24,1);
+    
+}
+.menu h2{
+    font-family: cursive;
+}
+.titulos{
+    color:#084B8A;
+    font-size: 40px;
+    text-decoration: underline
+}
+
+.espacio{
+    padding: 15px;
+}
+
+
+.prueba{
+    background-color: #CEF6F5;
+}
